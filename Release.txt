@@ -1,0 +1,9 @@
+Origin: t0nchi7's repo
+Label: t0nchi7's repo
+Suite: stable
+Version: 0.1
+Codename: t7repo
+Architectures: iphoneos-arm
+Components: main
+Description: cydia repo for my cool tweaks.
+MD5Sum:
