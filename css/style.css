@@ -1,54 +1,44 @@
 iframe {
   border:0
 }
-
 a,button {
   color:#007aff;
   text-decoration:none
 }
-
 html {
   background:#efeff4
 }
-
 html .depiction {
   background:0 0
 }
-
 body {
   font:16px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
   margin:80px 0 35px
 }
-
 .cydia body {
   margin-top:35px
 }
-
 .depiction body {
   margin-top:0;
   margin-bottom:0
 }
-
 @media (min-width:708px) {
-#content {
-  width:708px;
-  margin:0 auto
+  #content {
+    width:708px;
+    margin:0 auto
+  }
 }
-}
-
 @media (min-width:964px) {
-#content {
-  width:964px
+  #content {
+    width:964px
+  }
 }
-}
-
 body>p,h2,header .date,p[class="footer"] {
   margin:15px;
   color:#6d6d72;
   font-size:14px;
   font-weight:400
 }
-
 @media (min-width:708px) {
 body>p,h2,p[class="footer"] {
   margin-left:0;
