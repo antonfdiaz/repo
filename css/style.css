@@ -229,3 +229,15 @@ footer :last-child {
   margin-right:0
 }
 }
+.pkg-icon {
+  height: 24px;
+  width: 24px;
+  vertical-align: middle;
+  transition: all 0.15s ease;
+  cursor: pointer;
+  border: 1px solid rgba(0,0,0,0.15);
+  margin-left: 2px;
+}
+.pkg-icon:hover {
+  transform: scale(1.1);
+}
