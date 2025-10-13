@@ -1,12 +1,15 @@
 Package: com.t0nchi7.floatingdock7
 Name: FloatingDock7
-Version: 0.1
+Version: 0.1-2+debug
 Architecture: iphoneos-arm
-Depiction: https://antonfdiaz.github.io/repo/depic/floatingdock7/index.html
-Homepage: https://antonfdiaz.github.io/repo
 Description: Get the iOS 11 floating dock on iOS 7!
 Maintainer: t0nchi7
 Author: t0nchi7
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.t0nchi7.floatingdock7_0.1-2+debug_iphoneos-arm.deb
+Size: 3706
+MD5sum: 2d039c9e6c4e194cd1f6a71cc3a697d3
+Homepage: https://antonfdiaz.github.io/repo
+Depiction: https://antonfdiaz.github.io/repo/depic/floatingdock7/index.html
+
