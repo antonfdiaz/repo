@@ -1,11 +1,11 @@
 Origin: t0nchi7's repo
 Label: t0nchi7's repo
 Suite: stable
-Version: 0.1
+Version: 0.2
 Codename: t7repo
 Architectures: iphoneos-arm
 Components: main
 Description: cydia repo for my cool tweaks.
 MD5Sum:
- c2a2717db0e6a1f0929ed96576ae012c 503 Packages
- e51fe57e36c31c4fa4b0273f826600a8 375 Packages.bz2
+ 46f3bd68532b6488954b112d20aa346c 505 Packages
+ 473a045ac6a19021239bcc675a5ea06d 372 Packages.bz2
