@@ -29,6 +29,52 @@ Filename: debs/com.hackyouriphone.aquaboard_1.0-21_iphoneos-arm.deb
 Size: 86164
 MD5sum: 762f90d906dc35d0fb09080f968598ec
 
+Package: com.hackyouriphone.auxo2
+Name: Auxo 2 (iOS 7)
+Version: 1.2.3
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Conflicts: com.danyl.cccontrols (<= 1.0.2), kr.slak.cctoggles (<< 0.1-18), org.thebigboss.vertex
+Architecture: iphoneos-arm
+Author: A3tweaks <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=auxo2
+Section: HYI - Tweaks
+Description: A fantasic re-imagined task switcher!
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=auxo2
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Filename: debs/com.hackyouriphone.auxo2_1.2.3_iphoneos-arm.deb
+Size: 596046
+MD5sum: a3fcc4d24820a715aee1c21d9ac7c5be
+
+Package: com.hackyouriphone.auxo3
+Name: Auxo 3 (iOS 8)k
+Version: 1.1k
+Architecture: iphoneos-arm
+Author: PjStarsky <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=auxo3
+Section: HYI - Tweaks
+Description: A fantasic re-imagined task switcher!
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=auxo3
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Filename: debs/com.hackyouriphone.auxo3_1.1k_iphoneos-arm.deb
+Size: 835846
+MD5sum: b50ebc6ff15e587e1e3b1fae5e153d56
+
+Package: com.hackyouriphone.auxo3ios9
+Name: Auxo 3 (iOS 9)
+Version: 1.1.2
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Conflicts: com.a3tweaks.auxo2, com.a3tweaks.auxo3
+Architecture: iphoneos-arm
+Author: A3tweaks <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=auxo3ios9
+Section: HYI - Tweaks
+Description: A fantasic re-imagined task switcher!
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=auxo3ios9
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Filename: debs/com.hackyouriphone.auxo3ios9_1.1.2_iphoneos-arm.deb
+Size: 334950
+MD5sum: e2df3ab94382c1bbcdcf742b3fe035bb
+
 Package: com.hackyouriphone.icleanerpro
 Name: iCleaner Pro
 Version: 7.9.1
@@ -61,6 +107,54 @@ Maintainer: iLeoLion <repo@hackyouriphone.org>
 Filename: debs/com.hackyouriphone.ifile_2.2.0-1_iphoneos-arm.deb
 Size: 9747038
 MD5sum: 289aee1633c592fc93254c667a167481
+
+Package: com.hackyouriphone.springtomize2
+Name: Springtomize 2 - iOS 5 & 6
+Version: 1.4.5-1
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, com.filippobiga.springtomize2-icons, com.filippobiga.springtomize2-localizations
+Conflicts: com.filippobiga.springtomize
+Architecture: iphoneos-arm
+Author: FilippoBiga <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=springtomize2
+Section: HYI - Tweaks
+Description: SpringBoard, the way you want it. All over again.
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Filename: debs/com.hackyouriphone.springtomize2_1.4.5-1_iphoneos-arm.deb
+Size: 251858
+MD5sum: 8de4597a950d91074868e86e7d2c789a
+
+Package: com.hackyouriphone.springtomize3
+Name: Springtomize 3 (iOS 9/8/7)
+Version: 1.4.5-1
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
+Conflicts: com.filippobiga.springtomize2
+Architecture: iphoneos-arm
+Author: Filippo & Janosch <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=springtomize3
+Section: HYI - Tweaks
+Description: Customize your device like never before.
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=springtomize3
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Filename: debs/com.hackyouriphone.springtomize3_1.4.5-1_iphoneos-arm.deb
+Size: 517272
+MD5sum: c4dbd53b8b747640516722a458b4b6e3
+
+Package: com.hackyouriphone.springtomize
+Name: Springtomize 4
+Version: 4.1.0k
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap | com.hackyouriphone.rocketbootstrap
+Replaces: com.springtomize.st4
+Architecture: iphoneos-arm
+Author: sharedRoutine <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=springtomize
+SileoDepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=springtomize
+Section: HYI - Tweaks
+Description: customize your device like never before
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=springtomize
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Filename: debs/com.hackyouriphone.springtomize_4.1.0k_iphoneos-arm.deb
+Size: 904374
+MD5sum: bd23f9f092fc8ec7710b6ff0eaa0d4c3
 
 Package: com.hackyouriphone.weatherboard2
 Name: WeatherBoard 2 (iOS 9 & 8)
