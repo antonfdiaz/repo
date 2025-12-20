@@ -1,15 +1,139 @@
+Package: com.hackyouriphone.aquaboard8
+Name: AquaBoard (iOS 10/9/8)
+Version: 2.2-35
+Depends: mobilesubstrate (>= 0.9.5000), preferenceLoader (>= 2.2.2), firmware (>= 8.0)
+Conflicts: net.limneos.aquaboard, com.fuyuchi.unlockize
+Architecture: iphoneos-arm
+Author: Elias Limneos <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aquaboard8
+Section: HYI - Tweaks
+Description: Amazing Water Effects On SpringBoard
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aquaboard8
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Filename: debs/com.hackyouriphone.aquaboard8_2.2-35_iphoneos-arm.deb
+Size: 67894
+MD5sum: 73d170d6ba62faf8efba666796e25d4e
+
+Package: com.hackyouriphone.aquaboard
+Name: AquaBoard - Liquid SpringBoard
+Version: 1.0-21
+Depends: mobilesubstrate (>= 0.9.5000), preferenceLoader (>= 2.2.2), firmware (>= 5.0)
+Conflicts: com.fuyuchi.unlockize
+Architecture: iphoneos-arm
+Author: Elias Limneos <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aquaboard
+Section: HYI - Tweaks
+Description: Amazing Water Effects On SpringBoard
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Filename: debs/com.hackyouriphone.aquaboard_1.0-21_iphoneos-arm.deb
+Size: 86164
+MD5sum: 762f90d906dc35d0fb09080f968598ec
+
+Package: com.hackyouriphone.icleanerpro
+Name: iCleaner Pro
+Version: 7.9.1
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Architecture: iphoneos-arm
+Author: Ivano Bilenchi <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=icleanerpro
+SileoDepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=icleanerpro
+Section: HYI - Tweaks
+Description: The first real iOS system cleaner & optimizer
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=icleanerpro
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Filename: debs/com.hackyouriphone.icleanerpro_7.9.1_iphoneos-arm.deb
+Size: 6865174
+MD5sum: a8ed841d41bc2cab50353cc5442f0aeb
+
+Package: com.hackyouriphone.ifile
+Name: iFile
+Version: 2.2.0-1
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Architecture: iphoneos-arm
+Author: Carsten Heinelt <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=ifile
+Section: HYI - Tweaks
+Description: A File Manager and Viewer. iFile is a file manager runnning under user root. It allows fast navigation through the iPhone file system. It allows direct viewing of files of various types, e.g. movies, sound, text, HTML, Microsoft types, PDF, ZIP. For PDF files direct jumping to pages is possible. ZIP packing and unpacking is also supported. Files can be sent as email attachments. Text files and property lists can be edited. Folders and files can be bookmarked. In addition, files can be uploaded and downloaded from iFile's built-in web server.
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=ifile
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Filename: debs/com.hackyouriphone.ifile_2.2.0-1_iphoneos-arm.deb
+Size: 9747038
+MD5sum: 289aee1633c592fc93254c667a167481
+
+Package: com.hackyouriphone.weatherboard2
+Name: WeatherBoard 2 (iOS 9 & 8)
+Version: 1.2.0-1
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: org.thebigboss.weatherboard, org.thebigboss.weatherboard8
+Architecture: iphoneos-arm
+Author: Allan Kerr <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=weatherboard2
+Section: HYI - Tweaks
+Description: animated weather on home & lock screen
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=weatherboard2
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Filename: debs/com.hackyouriphone.weatherboard2_1.2.0-1_iphoneos-arm.deb
+Size: 1443342
+MD5sum: f70dd573e83c7e54101399d68d76264b
+
+Package: com.hackyouriphone.weatherboard8
+Name: WeatherBoard (iOS 7)
+Version: 1.1.1-19
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
+Conflicts: org.thebigboss.weatherboard
+Architecture: iphoneos-arm
+Author: Allan Kerr <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=weatherboard8
+Section: HYI - Tweaks
+Description: animated weather on home & lock screen
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=weatherboard8
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Filename: debs/com.hackyouriphone.weatherboard8_1.1.1-19_iphoneos-arm.deb
+Size: 75324
+MD5sum: 2e8f000d7f1be08781d2a0c743ef4c9e
+
 Package: com.t0nchi7.floatingdock7
 Name: FloatingDock7
-Version: 0.3-1+debug
-Architecture: iphoneos-arm
 Description: Get the iOS 11 floating dock on iOS 7!
 Maintainer: t0nchi7
 Author: t0nchi7
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
+Icon: /usr/share/icons/fd7-icon.png
+Architecture: iphoneos-arm
+Version: 0.1-2+debug
+Installed-Size: 56
+Filename: debs/com.t0nchi7.floatingdock7_0.1-2+debug_iphoneos-arm.deb
+Size: 3706
+MD5sum: 2d039c9e6c4e194cd1f6a71cc3a697d3
+
+Package: com.t0nchi7.floatingdock7
+Name: FloatingDock7
+Description: Get the iOS 11 floating dock on iOS 7!
+Maintainer: t0nchi7
+Author: t0nchi7
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 0.2-1+debug
+Installed-Size: 212
+Filename: debs/com.t0nchi7.floatingdock7_0.2-1+debug_iphoneos-arm.deb
+Size: 15422
+MD5sum: 6beccee20a6b215689b8e2a02cd12425
+
+Package: com.t0nchi7.floatingdock7
+Name: FloatingDock7
+Description: Get the iOS 11 floating dock on iOS 7!
+Maintainer: t0nchi7
+Author: t0nchi7
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 0.3-1+debug
+Installed-Size: 212
 Filename: debs/com.t0nchi7.floatingdock7_0.3-1+debug_iphoneos-arm.deb
 Size: 15396
 MD5sum: 122521a54760e7571d0de9b49450c063
-Homepage: https://antonfdiaz.github.io/repo
-Depiction: https://antonfdiaz.github.io/repo/depic/floatingdock7/index.html
 
