@@ -1,3 +1,18 @@
+Package: com.macciti.6god
+Name: 6God
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Description: iOS 6 on iOS 9
+Maintainer: iC <apt@macciti.com>
+Author: AhmadNagy <ahmad.ios.tweaks@gmail.com>
+Sponsor: MacCiti <http://www.macciti.com/cydia/pages/sponsor.php>
+Section: Themes (SpringBoard)
+Depiction: http://www.macciti.com/pages/6god/index.php
+Filename: debs/com.macciti.6god_1.1_iphoneos-arm.deb
+Size: 3414028
+MD5sum: b799bf124e8e8a78e270bf5a35eee0d0
+
 Package: com.t0nchi7.floatingdock7
 Name: FloatingDock7
 Description: Get the iOS 11 floating dock on iOS 7!
