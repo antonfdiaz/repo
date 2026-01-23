@@ -1,3 +1,15 @@
+Package: com.t0nchi7.newios
+Name: NewiOS
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iOS 18 theme for older devices.
+Author: t0nchi7
+Maintainer: t0nchi7
+Section: Themes
+Filename: debs/NewiOS.deb
+Size: 1560944
+MD5sum: b078429d95f8a799659ec2c885299eb5
+
 Package: com.macciti.6god
 Name: 6God
 Version: 1.1
