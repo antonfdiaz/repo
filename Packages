@@ -1,14 +1,62 @@
 Package: com.t0nchi7.newios
 Name: NewiOS
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: iOS 18 theme for older devices.
 Author: t0nchi7
 Maintainer: t0nchi7
 Section: Themes
 Filename: debs/NewiOS.deb
-Size: 1748376
-MD5sum: 2162aba4b291e343f3b223e32b6d5394
+Size: 1932932
+MD5sum: 984563130b7482ff74e1163dd767de11
+
+Architecture: iphoneos-arm
+Author: Daniel B King <danielbking@me.com>
+Description: A non profit port by Daniel B King for the jailbreak communiy
+Maintainer: Daniel B King <danielbking@me.com>
+Name: San Francisco Display iOS 8
+Package: com.dbk1ng.sanfranciscodisplayios8
+Section: Fonts (iOS 8 Fonts)
+Version: 1.0
+Filename: debs/com.dbk1ng.sanfranciscodisplayios8_1.0.deb
+Size: 19838676
+MD5sum: e4e3a8b1422f565f34fb55984d32ba4d
+
+Architecture: iphoneos-arm
+Author: Daniel B King <danielbking@me.com>
+Description: A non profit port by Daniel B King for the jailbreak communiy
+Maintainer: Daniel B King <danielbking@me.com>
+Name: San Francisco iOS 8
+Package: com.dbk1ng.sanfranciscoios8
+Section: Fonts (iOS 8)
+Version: 1.0
+Filename: debs/com.dbk1ng.sanfranciscoios8_1.0.deb
+Size: 21724404
+MD5sum: 78b3fe793531918b8bacbca0b87882d1
+
+Architecture: iphoneos-arm
+Author: Daniel B King <danielbking@me.com>
+Description: A non profit port by Daniel Rojas for the jailbreak communiy
+Maintainer: Daniel B King <danielbking@me.com>
+Name: San Francisco Light
+Package: com.dbk1ng.sanfranciscolight
+Section: Fonts (iOS 8 Fonts)
+Version: 1.0
+Filename: debs/com.dbk1ng.sanfranciscolight_1.0.deb
+Size: 21667096
+MD5sum: 25a8d2df60a9a273b91e3084cfaa4036
+
+Architecture: iphoneos-arm
+Author: Daniel B King <danielbking@me.com>
+Description: A non profit port by Daniel B King for the jailbreak communiy
+Maintainer: Daniel B King <danielbking@me.com>
+Name: San Francisco Rounded iOS 8
+Package: com.dbk1ng.sanfranciscoroundedios8
+Section: Fonts (iOS 8 Fonts)
+Version: 1.0
+Filename: debs/com.dbk1ng.sanfranciscoroundedios8_1.0.deb
+Size: 20718212
+MD5sum: e130bd17d8e01d548d5256a143ce5101
 
 Package: com.macciti.6god
 Name: 6God
