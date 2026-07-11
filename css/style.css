@@ -261,6 +261,10 @@ a:active {
   align-items: center;
   text-shadow: 2px 2px 5px #fff;
 }
+#add2cydia span {
+  display: inline-block;
+  text-shadow: 2px 2px 5px #fff;
+}
 #add2cydia img {
   margin-left: 10px;
   -webkit-transition: all 0.15s ease;
