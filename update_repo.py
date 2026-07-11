@@ -57,7 +57,6 @@ def format_entry(entries: list[tuple[str, str]], filename: str, size: int, md5he
             lines.append(f"{key}: {val}")
     return "\n".join(lines) + "\n\n"
 
-
 def build_packages(deb_dir: Path) -> str:
     entries: list[str] = []
     for deb in sorted(p for p in deb_dir.iterdir() if p.suffix == ".deb"):
