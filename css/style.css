@@ -272,3 +272,12 @@ a:active {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
+.image-text {
+  /*container with image at the left and text at the right*/
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  color: #000;
+  background-color: rgba(255,255,255,0.75);
+  margin-bottom: 35px;
+}
