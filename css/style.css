@@ -76,7 +76,6 @@ body>header {
   z-index:10;
   background:rgba(255,255,255,0.75);
   border-bottom:1px solid #c9c9cd;
-  backdrop-filter: blur(10px);
 }
 
 body>header h1 {
@@ -100,7 +99,6 @@ ul {
   padding:0;
   list-style:none;
   background: rgba(255,255,255,0.75);
-  backdrop-filter: blur(10px);
 }
 
 ul:after,ul:before {
