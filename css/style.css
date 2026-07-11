@@ -39,8 +39,6 @@ body {
 body>p,h2,header .date,p[class="footer"] {
   margin:15px;
   color:#000;
-  text-shadow: 2px 2px 5px #fff;
-  filter: drop-shadow(2px 2px 5px #fff);
   font-size:14px;
   font-weight:400;
 }
