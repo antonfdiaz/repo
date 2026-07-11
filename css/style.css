@@ -39,6 +39,7 @@ body {
 body>p,h2,header .date,p[class="footer"] {
   margin:15px;
   color:#000;
+  text-shadow: 2px 2px 5px #fff;
   filter: drop-shadow(2px 2px 5px #fff);
   font-size:14px;
   font-weight:400;
@@ -252,13 +253,20 @@ a:active {
   color: #6d6d72;
 }
 #add2cydia {
+  display: -webkit-box;
+  display: -webkit-flex;
   display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
   align-items: center;
-  gap: 10px;
+  text-shadow: 2px 2px 5px #fff;
 }
 #add2cydia img {
+  margin-left: 10px;
+  -webkit-transition: all 0.15s ease;
   transition: all 0.15s ease;
 }
 #add2cydia img:hover {
+  -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
