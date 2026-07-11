@@ -274,10 +274,16 @@ a:active {
 }
 .image-text {
   /*container with image at the left and text at the right*/
+  display: -webkit-box;
+  display: -webkit-flex;
   display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
   align-items: center;
-  gap: 13px;
   color: #000;
   background-color: rgba(255,255,255,0.75);
   margin-bottom: 35px;
+}
+.image-text img {
+  margin-right: 13px;
 }
