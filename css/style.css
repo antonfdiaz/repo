@@ -285,5 +285,28 @@ a:active {
   margin-bottom: 35px;
 }
 .image-text img {
+  width: 243px;
+  height: auto;
+  max-width: 40%;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  flex: 0 0 auto;
   margin-right: 13px;
+}
+@media (max-width:480px) {
+.image-text {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  align-items: flex-start;
+}
+.image-text img {
+  width: 180px;
+  max-width: 100%;
+  margin-right: 0;
+  margin-bottom: 13px;
+}
 }
