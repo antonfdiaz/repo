@@ -40,7 +40,8 @@ body>p,h2,header .date,p[class="footer"] {
   margin:15px;
   color:#6d6d72;
   font-size:14px;
-  font-weight:400
+  font-weight:400;
+  text-shadow:0 1px 0 rgba(255,255,255,0.5);
 }
 @media (min-width:708px) {
 body>p,h2,p[class="footer"] {
