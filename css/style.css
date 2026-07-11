@@ -6,7 +6,10 @@ a,button {
   text-decoration:none
 }
 html {
-  background:#efeff4
+  background:#efeff4;
+  background-image: url("../wall.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 html .depiction {
   background:0 0
@@ -71,8 +74,9 @@ body>header {
   width:100%;
   height:44px;
   z-index:10;
-  background:#f7f7f7;
-  border-bottom:1px solid #c9c9cd
+  background:rgba(255,255,255,0.75);
+  border-bottom:1px solid #c9c9cd;
+  backdrop-filter: blur(10px);
 }
 
 body>header h1 {
@@ -95,7 +99,8 @@ ul {
   margin:5px 0 35px;
   padding:0;
   list-style:none;
-  background:#fff
+  background: rgba(255,255,255,0.75);
+  backdrop-filter: blur(10px);
 }
 
 ul:after,ul:before {
@@ -246,4 +251,15 @@ a:active {
 }
 .grey {
   color: #6d6d72;
+}
+#add2cydia {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+#add2cydia img {
+  transition: all 0.15s ease;
+}
+#add2cydia img:hover {
+  transform: scale(1.1);
 }
