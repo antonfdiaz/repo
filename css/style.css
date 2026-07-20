@@ -6,13 +6,13 @@ a,button {
   text-decoration:none
 }
 html {
+  background:0 0;
   background:#efeff4;
+}
+html .depiction {
   background-image: url("../wall.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-}
-html .depiction {
-  background:0 0
 }
 body {
   font:16px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
