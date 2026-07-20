@@ -52,12 +52,13 @@ Author: t0nchi7
 Section: Tweaks
 Depends: firmware (>= 5.1), firmware (<< 11.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: com.ps.emojifontmanager
+Depiction: https://antonfdiaz.github.io/repo/depic/emojifontlite/index.html
 Architecture: iphoneos-arm
-Version: 1.4.1-1+debug
+Version: 1.4.1-2+debug
 Installed-Size: 33504
-Filename: debs/com.t0nchi7.emojifontlite_1.4.1-1+debug_iphoneos-arm.deb
-Size: 31599118
-MD5sum: 4329510a3e74d8436d79d331525d3b72
+Filename: debs/com.t0nchi7.emojifontlite_1.4.1-2+debug_iphoneos-arm.deb
+Size: 31599170
+MD5sum: e091db278011b1e91b78680b53252c70
 
 Package: com.t0nchi7.floatingdock7
 Name: FloatingDock7
