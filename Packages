@@ -60,6 +60,22 @@ Filename: debs/com.t0nchi7.emojifontlite_1.4.1-2+debug_iphoneos-arm.deb
 Size: 31599170
 MD5sum: e091db278011b1e91b78680b53252c70
 
+Package: com.t0nchi7.emojifontlite
+Name: EmojiFontLite
+Description: Render modern emojis on iOS 5.1-10.3!
+Maintainer: t0nchi7
+Author: t0nchi7
+Section: Tweaks
+Depends: firmware (>= 5.1), firmware (<< 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ps.emojifontmanager
+Depiction: https://antonfdiaz.github.io/repo/depic/emojifontlite/index.html
+Architecture: iphoneos-arm
+Version: 1.4.3-1+debug
+Installed-Size: 32236
+Filename: debs/com.t0nchi7.emojifontlite_1.4.3-1+debug_iphoneos-arm.deb
+Size: 30474814
+MD5sum: 4c5a50b310a0cbb397bce2cc301e3da7
+
 Package: com.t0nchi7.floatingdock7
 Name: FloatingDock7
 Description: Get the iOS 11 floating dock on iOS 7!
