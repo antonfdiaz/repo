@@ -7,5 +7,5 @@ Architectures: iphoneos-arm
 Components: main
 Description: cydia repo for my cool tweaks.
 MD5Sum:
- d41670e434d25ccc312b4d1344b771b6 4569 Packages
- 370b1330667542c82d29fab6764ff9ae 1690 Packages.bz2
+ 402d46454256f1d3cd8f214b5dbb0f51 4930 Packages
+ 0086a46ac22b1b6279daac97c7c2ce39 1757 Packages.bz2

@@ -119,3 +119,17 @@ Filename: debs/com.t0nchi7.floatingdock7_0.3-1+debug_iphoneos-arm.deb
 Size: 15396
 MD5sum: 122521a54760e7571d0de9b49450c063
 
+Package: com.t0nchi7.newios
+Name: NewiOS
+Depends: com.artikus.neonboard
+Description: iOS 18 theme for older devices!
+Maintainer: t0nchi7
+Author: t0nchi7
+Section: Themes
+Architecture: iphoneos-arm
+Version: 1.1.0-1+debug
+Installed-Size: 2612
+Filename: debs/com.t0nchi7.newios_1.1.0-1+debug_iphoneos-arm.deb
+Size: 2057566
+MD5sum: 75eddcd0ea30e1bf42b59c92c81c401f
+
