@@ -133,3 +133,17 @@ Filename: debs/com.t0nchi7.newios_1.1.0-1+debug_iphoneos-arm.deb
 Size: 2057566
 MD5sum: 75eddcd0ea30e1bf42b59c92c81c401f
 
+Package: com.t0nchi7.ytnoforceupgrade
+Name: YTNoForceUpgrade
+Description: Disables YouTube force upgrade dialog.
+Maintainer: Anton
+Author: Anton
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.0.0-1+debug
+Installed-Size: 56
+Filename: debs/com.t0nchi7.ytnoforceupgrade_1.0.0-1+debug_iphoneos-arm.deb
+Size: 2450
+MD5sum: 9fe48e5fbf6b40a4646eaad61aa99909
+
