@@ -133,6 +133,20 @@ Filename: debs/com.t0nchi7.newios_1.1.0-1+debug_iphoneos-arm.deb
 Size: 2057566
 MD5sum: 75eddcd0ea30e1bf42b59c92c81c401f
 
+Package: com.t0nchi7.olddockenabler
+Name: OldDockEnabler
+Description: Enables the SBUseOldDock hidden key on iOS 2-3.
+Maintainer: t0nchi7
+Author: t0nchi7
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 1.0.0-3+debug
+Installed-Size: 40
+Filename: debs/com.t0nchi7.olddockenabler_1.0.0-3+debug_iphoneos-arm.deb
+Size: 3866
+MD5sum: 0c7f1516b82531075b609e12d25629a4
+
 Package: com.t0nchi7.ytnoforceupgrade
 Name: YTNoForceUpgrade
 Description: Disables YouTube force upgrade popup.
